@@ -1,1 +1,0 @@
-cambios Irvin: base de datos de prueba para sisga en postgre.sql
